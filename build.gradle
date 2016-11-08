@@ -59,7 +59,6 @@ configure([project(':mobileapp')]) {
         maven {
             url 'http://nexus.gluonhq.com/nexus/content/repositories/releases'
         }
-        mavenLocal()
     }
 
     dependencies {

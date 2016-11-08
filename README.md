@@ -70,11 +70,11 @@ $ cf push -f webapp-mobile/manifest.yml
 #### Configure a Connector
 
 When the mobile application generates an item on the whiteboard, Gluon CloudLink can push data to other back ends,
- by configuring a connector in your Gluon Application. Download the Gluon CloudLink Dashboard application. Run the
- application with the following command:
+ by configuring a connector in your Gluon Application. Download the Gluon CloudLink Dashboard application from
+ http://gluonhq.com/products/cloudlink/cloudlink-dashboard/. Run the application with the following command:
 
 ~~~
-$ java -jar gluoncloud-apps-dashboard-1.0.0-all.jar
+$ java -jar gluoncloud-apps-dashboard-3.0.0-preview-b2.jar
 ~~~
 
 Sign in with the key and secret of your Gluon Application and navigate to the Configuration section. Select
