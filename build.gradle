@@ -63,9 +63,7 @@ configure([project(':mobileapp')]) {
     }
 
     dependencies {
-        compile 'com.gluonhq:charm-glisten:4.0.1'
-        compile 'com.gluonhq:charm-glisten-connect-view:4.0.1'
-        compile 'com.gluonhq:connect:1.2.0-SNAPSHOT'
+        compile 'com.gluonhq:charm:4.1.0'
         compileNoRetrolambda 'com.airhacks:afterburner.mfx:1.6.2'
     }
 
