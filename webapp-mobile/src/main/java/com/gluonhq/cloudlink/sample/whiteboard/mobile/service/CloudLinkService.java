@@ -18,7 +18,7 @@ import java.io.StringWriter;
 @Service
 public class CloudLinkService {
 
-    private static final String CLOUDLINK_ENDPOINT = "http://localhost/3/data/enterprise";
+    private static final String CLOUDLINK_ENDPOINT = "https://cloud.gluonhq.com/3/data/enterprise";
 
     private static final String CLOUDLINK_APPLICATION_KEY = "GLUON_APPLICATION_KEY";
     private static final String CLOUDLINK_APPLICATION_SECRET = "GLUON_APPLICATION_SECRET";
