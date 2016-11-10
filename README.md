@@ -74,7 +74,7 @@ When the mobile application generates an item on the whiteboard, Gluon CloudLink
  http://gluonhq.com/products/cloudlink/cloudlink-dashboard/. Run the application with the following command:
 
 ~~~
-$ java -jar cloudlink-dashboard-3.0.0-preview-b2.jar
+$ java -jar cloudlink-dashboard-3.0.0-preview-b3.jar
 ~~~
 
 Sign in with the key and secret of your Gluon Application and navigate to the Configuration section. Select
